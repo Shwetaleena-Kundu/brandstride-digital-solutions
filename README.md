@@ -1,5 +1,7 @@
 # Brandstride Digital Solutions
 
+**Live website:** [brandstride-digital-solutions-red.vercel.app](https://brandstride-digital-solutions-red.vercel.app/)
+
 A responsive, four-page website for a fictional digital marketing company, built for **Week 2 — Task 1: Responsive Company Website**.
 
 The project presents the company's identity and services and lets visitors complete contact and enquiry forms with client-side validation.
@@ -105,9 +107,9 @@ Screenshots for all four pages are included at desktop, tablet and mobile sizes.
 
 This checklist describes checks to perform; it is not a claim of completed browser testing.
 
-## Deployment status
+## Live deployment
 
-A live deployment URL has not yet been added. Correct the stylesheet paths, deploy the static website and add the verified live link here.
+Hosted on Vercel: [Visit Brandstride Digital Solutions](https://brandstride-digital-solutions-red.vercel.app/).
 
 ## Author
 
