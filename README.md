@@ -1,6 +1,6 @@
 # Brandstride Digital Solutions
 
-**Live website:** [brandstride-digital-solutions-red.vercel.app](https://brandstride-digital-solutions-red.vercel.app/)
+**Previous deployment:** [brandstride-digital-solutions-red.vercel.app](https://brandstride-digital-solutions-red.vercel.app/)
 
 A responsive, four-page website for a fictional digital marketing company, built for **Week 2 — Task 1: Responsive Company Website**.
 
@@ -69,9 +69,6 @@ No package installation or build step is required.
 3. Open `index.html` with Live Server, or directly in a modern browser.
 4. Use the navigation to visit the other pages.
 
-### Path correction before deployment
-
-The uploaded stylesheet folder is named `Css`, while the HTML pages currently reference `css/style.css` and `css/responsive.css`. Match the folder name and references exactly before deploying to a case-sensitive host. For example, update the links in all four pages to `Css/style.css` and `Css/responsive.css`.
 
 ## Forms and API scope
 
@@ -109,7 +106,7 @@ This checklist describes checks to perform; it is not a claim of completed brows
 
 ## Live deployment
 
-Hosted on Vercel: [Visit Brandstride Digital Solutions](https://brandstride-digital-solutions-red.vercel.app/).
+The previous Vercel project was deleted. The stylesheet paths have been corrected for redeployment. Add the new live URL after the replacement deployment is ready.
 
 ## Author
 
