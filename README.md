@@ -1,6 +1,6 @@
 # Brandstride Digital Solutions
 
-**Previous deployment:** [brandstride-digital-solutions-red.vercel.app](https://brandstride-digital-solutions-red.vercel.app/)
+**Live website:** [brandstride-digital-solutions-i8cu.vercel.app](https://brandstride-digital-solutions-i8cu.vercel.app/)
 
 A responsive, four-page website for a fictional digital marketing company, built for **Week 2 — Task 1: Responsive Company Website**.
 
@@ -106,7 +106,7 @@ This checklist describes checks to perform; it is not a claim of completed brows
 
 ## Live deployment
 
-The previous Vercel project was deleted. The stylesheet paths have been corrected for redeployment. Add the new live URL after the replacement deployment is ready.
+Hosted on Vercel: [Visit Brandstride Digital Solutions](https://brandstride-digital-solutions-i8cu.vercel.app/).
 
 ## Author
 
